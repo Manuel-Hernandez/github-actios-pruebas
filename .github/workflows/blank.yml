@@ -13,4 +13,4 @@ jobs:
   
     steps:
       - name: "Mostrar Mensaje"
-        run: "Hola mundo prueba"
+        run: echo "Hola mundo prueba"
